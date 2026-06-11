@@ -1,37 +1,36 @@
-[Muhammad_Hussain_README_UPDATED (1).md](https://github.com/user-attachments/files/28849314/Muhammad_Hussain_README_UPDATED.1.md)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:3B82F6,70:06B6D4,100:0EA5E9&height=200&section=header&text=Muhammad%20Hussain&fontSize=56&fontColor=FFFFFF&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ED9C5,35:06D6D4,70:1E3A8A,100:3B82F6&height=200&section=header&text=Muhammad%20Hussain&fontSize=56&fontColor=FFFFFF&fontAlignY=35" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Enterprise-Grade+Software+Engineering;Full-Stack+MERN+Product+Development;AI+Agents+%7C+LLM+APIs+%7C+Prompt+Engineering;Building+Scalable%2C+Secure%2C+User-Centric+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&pause=1200&color=06D6D4&center=true&vCenter=true&width=900&lines=Enterprise-Grade+Software+Engineering;Full-Stack+MERN+Product+Development;AI+Agents+%7C+LLM+APIs+%7C+Prompt+Engineering;Building+Scalable%2C+Secure%2C+User-Centric+Systems" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/BS%20Software%20Engineering-Bahria%20University-3B82F6?style=flat-square&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Saylani-Web%20%26%20App%20Development-06B6D4?style=flat-square&logo=googleclassroom&logoColor=white" />
+  <img src="https://img.shields.io/badge/BS%20Software%20Engineering-Bahria%20University-0ED9C5?style=flat-square&logo=academia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Saylani-Web%20%26%20App%20Development-06D6D4?style=flat-square&logo=googleclassroom&logoColor=white" />
   <img src="https://img.shields.io/badge/Islamabad-Pakistan-1E3A8A?style=flat-square&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Muhammad-Hussain-CH">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=06B6D4" />
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=06D6D4" />
   </a>
   <a href="https://www.linkedin.com/in/muhammad-hussain082">
-    <img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0ED9C5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hussain900502@gmail.com">
-    <img src="https://img.shields.io/badge/Email-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-06D6D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Muhammad-Hussain-CH">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=06B6D4" />
+    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=0ED9C5" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Muhammad-Hussain-CH&label=Profile%20Views&color=06B6D4&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/Muhammad-Hussain-CH?label=Followers&style=flat-square&color=3B82F6" />
-  <img src="https://img.shields.io/github/stars/Muhammad-Hussain-CH?label=Stars&style=flat-square&color=0EA5E9" />
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Hussain-CH&label=Profile%20Views&color=0ED9C5&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/Muhammad-Hussain-CH?label=Followers&style=flat-square&color=06D6D4" />
+  <img src="https://img.shields.io/github/stars/Muhammad-Hussain-CH?label=Stars&style=flat-square&color=1E3A8A" />
 </p>
 
 ---
@@ -98,10 +97,6 @@ I am also a member of **CodeViel Studio**, where I collaborate with a developmen
 <details>
 <summary><b>Pharmacare — Full-Stack Pharmacy Management System</b></summary>
 
-<br>
-
-A complete pharmacy management platform designed to handle inventory, sales, prescriptions, reporting, and structured pharmacy workflows.
-
 | Category | Details |
 |---|---|
 | Stack | TypeScript · React.js · Node.js · Express.js · MySQL Workbench · REST APIs |
@@ -116,10 +111,6 @@ A complete pharmacy management platform designed to handle inventory, sales, pre
 <details>
 <summary><b>AI Agent Learning Project</b></summary>
 
-<br>
-
-An AI-focused learning project built to explore LLM-powered application behavior, API communication, prompt design, and intelligent response handling.
-
 | Category | Details |
 |---|---|
 | Stack | TypeScript · Gemini API |
@@ -133,10 +124,6 @@ An AI-focused learning project built to explore LLM-powered application behavior
 
 <details>
 <summary><b>Selected Practice Projects</b></summary>
-
-<br>
-
-A collection of learning projects built to strengthen programming fundamentals, frontend logic, Python problem-solving, and GitHub version control.
 
 | Category | Details |
 |---|---|
