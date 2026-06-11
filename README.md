@@ -157,16 +157,6 @@ I am also a member of **CodeViel Studio**, where I collaborate with a developmen
 </p>
 ---
 
-## Contribution Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Hussain-CH&bg_color=0D1117&color=06D6D4&line=0ED9C5&point=FFFFFF&area=true&hide_border=true" 
-    width="100%" 
-  />
-</p>
-
----
 
 ## Contribution Snake
 
