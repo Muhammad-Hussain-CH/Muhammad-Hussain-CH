@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,35:3B82F6,70:06B6D4,100:0EA5E9&height=240&section=header&text=Muhammad%20Hussain&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20MERN%20Stack%20Developer%20%7C%20AI%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
 </p>
@@ -111,8 +110,6 @@ A complete pharmacy management platform designed to handle inventory, sales, pre
 | Impact | Supports pharmacy operations including inventory, sales, prescriptions, and reporting |
 | Repository | [View on GitHub](https://github.com/Muhammad-Hussain-CH) |
 
-This project reflects strong full-stack engineering practice, including API architecture, frontend/backend separation, sprint-based development, database modeling, and practical product thinking.
-
 </details>
 
 <details>
@@ -131,8 +128,6 @@ An AI-focused learning project built to explore LLM-powered application behavior
 | Impact | Strengthened practical understanding of AI agents and LLM-powered applications |
 | Repository | [View on GitHub](https://github.com/Muhammad-Hussain-CH) |
 
-This project represents hands-on AI engineering practice, combining product curiosity with API integration, prompt engineering, and agentic application behavior.
-
 </details>
 
 <details>
@@ -140,38 +135,35 @@ This project represents hands-on AI engineering practice, combining product curi
 
 <br>
 
-A collection of focused learning projects built to strengthen programming fundamentals, frontend logic, Python problem-solving, and GitHub version control.
+A collection of learning projects built to strengthen programming fundamentals, frontend logic, Python problem-solving, and GitHub version control.
 
 | Category | Details |
 |---|---|
 | Stack | JavaScript · Python · HTML5 · CSS3 · Git · GitHub |
-| Scale | Multiple projects including QR Code Generator, Social Media App, To-Do List, Digital Clock, Stopwatch, and Python games |
-| Performance | Built for fast iteration, logic clarity, DOM manipulation, and clean user interaction |
+| Scale | QR Code Generator, Social Media App, To-Do List, Digital Clock, Stopwatch, Python games |
+| Performance | Fast iteration, logic clarity, DOM manipulation, and clean user interaction |
 | Security | Fundamental client-side validation and structured coding practices |
 | Impact | Improved practical development confidence across frontend, scripting, and programming fundamentals |
 | Repository | [View on GitHub](https://github.com/Muhammad-Hussain-CH) |
-
-These projects demonstrate consistent hands-on learning, experimentation, and the ability to transform core programming concepts into functional applications.
 
 </details>
 
 ---
 
-## Experience
+## GitHub Stats
 
-### Software Developer Member — CodeViel Studio  
-**2025 – Present**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Hussain-CH&show_icons=true&theme=radical" />
+</p>
 
-Working as a software developer member in a tech startup environment, collaborating with a development team on designing, building, and shipping real-world software products.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Hussain-CH&theme=radical" />
+</p>
 
-**Scope of Work**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Hussain-CH&layout=compact" />
+</p>
 
-- Collaborating with developers on practical software product development
-- Contributing to full-stack application planning and implementation
-- Applying Agile and SDLC principles in real-world development workflows
-- Building experience in product engineering, team communication, and delivery-focused execution
-- Exploring AI tools and agents for improved development productivity
-
-\`Software Engineering\` \`MERN Stack\` \`Product Development\` \`Team Collaboration\` \`Agile\` \`SDLC\` \`AI Tools\` \`GitHub\`
-
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Hussain-CH&theme=radical" />
+</p>
